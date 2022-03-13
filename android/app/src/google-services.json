@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36162037943",
+    "project_id": "red-e-com",
+    "storage_bucket": "red-e-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36162037943:android:f917ada5ba1eab12b34532",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36162037943-0p30pre0a5a6v76ve80hima205g1sns4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-U2WGNBzcAcG1C7BvxZBA3OWqZ3YBP4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36162037943-0p30pre0a5a6v76ve80hima205g1sns4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
